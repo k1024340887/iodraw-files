@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-2" value="查看" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-2" value="查看" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-3" value="书籍" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-3" value="书籍" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-5" value="推荐" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-5" value="推荐" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-6" value="推荐类别" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-6" value="推荐类别" style="whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="330" y="730" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-7" value="书籍分类" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-7" value="书籍分类" style="whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-30" y="560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-8" value="购买" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-8" value="购买" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-9" value="订单" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-9" value="订单" style="whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-11" value="组成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-11" value="组成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-12" value="订单项" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-12" value="订单项" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="680" y="560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HFtNpWn5w2wDTFe5NmNK-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

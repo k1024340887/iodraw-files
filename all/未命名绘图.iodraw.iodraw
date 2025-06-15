@@ -86,10 +86,13 @@
           <mxGeometry x="660" y="240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFtNpWn5w2wDTFe5NmNK-32" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="775" y="318" width="30" height="30" as="geometry" />
+          <mxGeometry x="760" y="318" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HFtNpWn5w2wDTFe5NmNK-33" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="318" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

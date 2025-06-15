@@ -35,7 +35,7 @@
           <mxGeometry x="710" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFtNpWn5w2wDTFe5NmNK-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="110" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

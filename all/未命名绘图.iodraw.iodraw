@@ -20,7 +20,7 @@
           <mxGeometry x="330" y="730" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFtNpWn5w2wDTFe5NmNK-7" value="书籍分类" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="40" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HFtNpWn5w2wDTFe5NmNK-8" value="购买" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="HFtNpWn5w2wDTFe5NmNK-12" value="订单项" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HFtNpWn5w2wDTFe5NmNK-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
